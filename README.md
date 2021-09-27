@@ -1,52 +1,56 @@
-# Project name
-***
-Short Description about the project.
-## Table of Contents
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
-### General Info
-***
-Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
-### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
-## Technologies
-***
-A list of technologies used within the project:
-* [Technologie name](https://example.com): Version 12.3 
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
-## Installation
-***
-A little intro about the installation. 
-```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
-## Collaboration
-***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> It should go over several rows?
-> This is how you do it.
-## FAQs
-***
-A list of frequently asked questions
-1. **This is a question in bold**
-Answer of the first question with _italic words_. 
-2. __Second question in bold__ 
-To answer this question we use an unordered list:
-* First point
-* Second Point
-* Third point
-3. **Third question in bold**
-Answer of the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
+[6]: http://dev.to/ombharatiya -->
+
+
+# Civil Engineer & Full Stack Web Development!!
+# Civil Engineer & Full Stack Web Developer!!
+
+
+Hi, I'm German — a **Civil Engineer** and a **Full Stack Web Developer**. My working principle is learning by doing. 💯
+<!-- section - intro -->
+<!-- section - social media icons -->
+[![linkedin GerMoren][1.1]][1]
+[![github GerMoren][2.1]][2]
+[![twitter GerMoren][3.1]][3]
+<!--
+[![medium ombharatiya][4.1]][4]
+[![stackoverflow om-bharatiya][5.1]][5]
+[![dev to ombharatiya][6.1]][6] -->
+<!-- section - social media icons -->
+ ---
+<!-- section - skills -->
+## I work on .. 💻
+React.js . Redux . AWS Services
+Postgresql . Sequelize
+JavaScript . NodeJs. Express
+<!-- section - skills -->
+<!-- section - job details -->
+<!-- ## On the job  💯-->
+<!--  Software Engineer - [**HashedIn**](https://hashedin.com)  ⭐-->
+<!-- Microsoft Student Partner & AI Rockstar - [**Microsoft**](https://studentambassadors.microsoft.com/en-us)-->
+<!-- Research & Development Engineer Intern - [**ISRO**](https://www.isro.gov.in) -->
+<!-- section - job details -->
+<!-- section - interests -->
+## My Absolute Favorites .. ⭐
+🦄 I love _CODING_
+👨‍💻 I _BUILD_ resilient apps & services
+<!--📰 Reading & writing _TECH BLOGS_ -->
+<!-- 🍕 _HACKATHONS_ & problem solving -->
+<!-- section - interests -->
+<!-- section - blogs -->
+## Check my Projects ✨
+- [Portfolio](https://bit.ly/31o5o6L)
+- [Vivero E-commerce](https://vivero.vercel.app/home)
+## Thank you! 🙏
+Thanks for reading about me. You can connect with me on .. 💻
+<!-- section - social media icons -->
+[![linkedin GerMoren][1.1]][1]
+[![github GerMoren][2.1]][2]
+[![twitter GerMoren][3.1]][3]
+<!--
+[![medium ombharatiya][4.1]][4]
+[![stackoverflow om-bharatiya][5.1]][5]
+[![dev to ombharatiya][6.1]][6] -->
+<!-- section - social media icons -->
+<p align='center'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=GerMoren.visitor-badge">
+ <p/>
