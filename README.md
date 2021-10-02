@@ -5,5 +5,15 @@
 
 
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/emanuel-gimenez/)
+
+## 👨‍💻 Blog
+
+Besides writing code, I like to write articles about things that I find interesting. You can read the articles at **[charly3pins.dev](https://charly3pins.dev)**
+
+
+
+
+![](https://media.giphy.com/media/OPYnG3Xf8zLag/giphy.gif)
 
 
