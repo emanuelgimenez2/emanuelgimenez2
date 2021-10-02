@@ -14,7 +14,7 @@ hi, i'm Emanuel Gimenez, a passionate self-taught full stack web developer . my 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼  [email](emanuelgimenez) :)
+- 💼  [email]<a href="https://emanuelgimenez2@gmail.com"> :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
