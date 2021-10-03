@@ -1,34 +1,16 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
-  
 
-<a href="https://www.linkedin.com/in/emanuel-gimenez/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<h1 align = "center"> Hola 👋, soy Emanuel Gimenez </h1>
+<h3 align = "center"> ¡Aquí encontraras mis proyectos! </h3>
 
+<p align = "left"> <img src = " https://komarev.com/ghpvc/?username=emanuelgimenez2&label=Profile%20views&color=0e75b6&style=flat "alt =" emanuelgimenez2 "/> </p>
 
+<h3 align =" left "> Conéctate conmigo: </h3>
+<p align = "left">
+<a href="https://linkedin.com/in/emanuel-gimenez" target="blank"> <img align = "center" src = "https: //raw.githubusercontent .com / rahuldkjain / github-profile-readme-generator / master / src / images / icons / Social / linked-in-alt.svg "alt =" emanuel-gimenez "height =" 30 "width ="40 "/> </a>
+<a href="https://instagram.com/manurauns" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg "alt =" manurauns "height =" 30 "width =" 40 "/> </a>
+</p>
 
-<br />
+<h3 align =" left "> Idiomas y Herramientas: </h3>
+<p align = "left"> <a href="https://babeljs.io/" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/babeljs/babeljs-icon .svg "alt =" babel "width =" 40 "height =" 40 "/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src =" https: //raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg "alt =" bootstrap "width =" 40 "height =" 40 "/> </a> <a href = "https://www.w3schools.com/css/" target = "_ blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original- wordmark.svg "alt = "css3" width = "40" height = "40" /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src = " https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg "alt =" html5 "width =" 40 "height =" 40 "/> </a> < a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript" target = "_ blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master /icons/javascript/javascript-original.svg "alt =" javascript "width =" 40 "height =" 40 "/> </a> <a href =" https://www.mongodb.com/ "target = "_blank"><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt = "mongodb" width = "40" height = "40" /> </a> <a href="https://nodejs.org" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs- original-wordmark.svg "alt =" nodejs "width =" 40 "height =" 40 "/> </a> <a href="https://www.python.org" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt = "python" width = "40" height = "40" /> </a><a href="https://reactjs.org/" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark .svg "alt =" react "width =" 40 "height =" 40 "/> </a> <a href="https://redux.js.org" target="_blank"> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg "alt =" redux "width =" 40 "height =" 40 "/> </a> <a href = "https://www.ruby-lang.org/en/" target = "_ blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby- original.svg "alt =" ruby ​​"width = "40" height = "40" /> </a> <a href="https://sass-lang.com" target="_blank"> <img src = "https: //raw.githubusercontent. com / devicons / devicon / master / icons / sass / sass-original.svg "alt =" sass "width =" 40 "height =" 40 "/> </a> <a href =" https: // www. typescriptlang.org/ "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg "alt =" mecanografiado "width =" 40 "altura =" 40 "/> </a> </p>target = "_ blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt = "sass" width = "40" height = " 40 "/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src =" https://raw.githubusercontent.com/devicons/devicon/master /icons/typescript/typescript-original.svg "alt =" mecanografiado "width =" 40 "height =" 40 "/> </a> </p>target = "_ blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt = "sass" width = "40" height = " 40 "/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src =" https://raw.githubusercontent.com/devicons/devicon/master /icons/typescript/typescript-original.svg "alt =" mecanografiado "width =" 40 "height =" 40 "/> </a> </p>//www.typescriptlang.org/ "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg "alt =" mecanografiado "width =" 40 "height =" 40 "/> </a> </p>//www.typescriptlang.org/ "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg "alt =" mecanografiado "width =" 40 "height =" 40 "/> </a> </p>
 
-hi, i'm Emanuel Gimenez, a passionate self-taught full stack web developer . my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼  [email]<a href="https://emanuelgimenez2@gmail.com"> :)
-- 💬 ask me about anything, i am happy to help;
-
-**languages and tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
-
-📈 my github stats
-
-
+<p> <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=emanuelgimenez2&show_icons=true&locale=en&layout=compact" alt = "emanuelgimenez2" /> </p>
