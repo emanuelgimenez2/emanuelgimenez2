@@ -1,21 +1,21 @@
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+
+  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manurausc)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-gimenez/)
+
+
+
   
 
-<a href="https://www.linkedin.com/in/emanuel-gimenez/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  
-</a>
-  <a href=" https://emanuelgimenez2.github.io/resume/" />
-  
-  </a>
 
 
 
 <br />
 
 hi, i'm Emanuel Gimenez, a passionate self-taught full stack web developer . my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+[![Linkedin](https://img.shields.io/badge/descarga-cv-green)]( https://emanuelgimenez2.github.io/resume/)
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   <br />
