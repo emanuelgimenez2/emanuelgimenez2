@@ -15,13 +15,16 @@
 <br />
 
 hi, i'm Emanuel Gimenez, a passionate self-taught full stack web developer . my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
-
+ [![Linkedin](https://img.shields.io/badge/descarga-cv-green)]( https://emanuelgimenez2.github.io/resume/)
+ 
 <br />
 <p>
   Contact Me ☎️ +5493442533465
-  <br />
-  [![Linkedin](https://img.shields.io/badge/descarga-cv-green)]( https://emanuelgimenez2.github.io/resume/)
+ 
+
 </p>
+ <br />
+ 
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
