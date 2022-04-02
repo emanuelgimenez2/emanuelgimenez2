@@ -1,5 +1,5 @@
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+### Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
   
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manurausc)
@@ -14,12 +14,12 @@
 
 <br />
 
-hi, i'm Emanuel Gimenez, a passionate self-taught full stack web developer . my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+Soy Emanuel Gimenez, un apasionado desarrollador web autodidacta full stack. Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes.
  [![Linkedin](https://img.shields.io/badge/descarga-cv-green)]( https://emanuelgimenez2.github.io/resume/)
  
 <br />
 <p>
-  Contact Me ☎️ +5493442533465
+  Contactame ☎️ +5493442533465
  
 
 </p>
