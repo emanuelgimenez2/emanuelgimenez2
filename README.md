@@ -4,7 +4,7 @@
   
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manurausc)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-gimenez/)
-
+[![Linkedin](https://img.shields.io/badge/descarga-cv-green)]( https://emanuelgimenez2.github.io/resume/)
 
 
   
@@ -15,7 +15,7 @@
 <br />
 
 Soy Emanuel Gimenez, un apasionado desarrollador web autodidacta full stack. Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes.
- [![Linkedin](https://img.shields.io/badge/descarga-cv-green)]( https://emanuelgimenez2.github.io/resume/)
+ 
  
 <br />
 <p>
