@@ -19,7 +19,7 @@ Soy Emanuel Gimenez, un apasionado desarrollador web autodidacta full stack. Mi 
  
 <br />
 <p>
-  Contactame ☎️ +5493442533465
+<!--   Contactame ☎️ +5493442533465 -->
  
 
 </p>
