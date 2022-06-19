@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on [app-weather](https://github.com/emanuelgimenez2/app-weather)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning React Native  
   
 
 - ❓ Ask me about anything related to React  
