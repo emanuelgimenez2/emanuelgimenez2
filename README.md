@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">I'm Gimenez Emanuel, a full-time full-stack freelance developer 👨‍💻 </div>  
+### <div align="center">I'm Gimenez Emanuel, a full-time full-stack developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [app-weather](https://github.com/emanuelgimenez2/app-weather)  
