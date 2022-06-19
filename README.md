@@ -18,7 +18,7 @@
 - ❓ Ask me about anything related to React  
   
 
-- ⚡ Fun fact: Si funciona en la primera, es raro.  
+<!-- - ⚡ Fun fact: Si funciona en la primera, es raro.   -->
   
 
 <br/>  
