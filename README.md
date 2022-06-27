@@ -2,10 +2,6 @@
 
 ### <div align="center">I'm Gimenez Emanuel, a full-time full-stack developer 👨‍💻 </div>  
 
-<br />
-
-Soy Emanuel Gimenez, un apasionado desarrollador web autodidacta full stack. Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes.
- 
  
 <br />
   
