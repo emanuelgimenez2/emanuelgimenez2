@@ -84,10 +84,13 @@ I started my path in development in the Faculty of Science and Technology and co
 
 
 <h4> Github Stats </h4>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=emanuelgimenez2&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=emanuelgimenez2&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
 
-  
+
+
+
+
 
 <br/>  
 
