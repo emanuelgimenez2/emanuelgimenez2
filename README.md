@@ -1,6 +1,12 @@
  
-
-### <div align="center">I'm Gimenez Emanuel, a full-time full-stack developer 👨‍💻 </div>  
+<div align="center">
+<img width="100%" height = "250px" src="https://media-exp1.licdn.com/dms/image/C4E16AQHHqs5W7EDoPw/profile-displaybackgroundimage-shrink_200_800/0/1660261157379?e=1666224000&v=beta&t=X1tVCNDGgm7_9YHu1FITz1jWKs-oaFBHNHnJwvWuXAo" alt="cover" />
+</div>
+<br/> 
+<br/> 
+ <div align="center">
+ <h1>I'm Gimenez Emanuel, a full-time full-stack developer 👨‍💻 </h1>
+ </div>  
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manurausc)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-gimenez/)
