@@ -2,7 +2,15 @@
 
 ### <div align="center">I'm Gimenez Emanuel, a full-time full-stack developer 👨‍💻 </div>  
 
- 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manurausc)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-gimenez/)
+<br/> 
+I started my path in development in the Faculty of Science and Technology and continued specializing in Platzi, and this last year I graduated from the Bootcamp soyHenry as a Full Stack Developer. I work on freelance projects and use the time to build my products. I spend my leisure hours reading. Right now I'm finishing a wine E-commerce, which was the final work in the Bootcamp. I love learning and exploring new fields. If you have a question or want to contact me you can do it through any of the networks I have available, I'll be glad to answer you.  Best regards!  
+
+
+  
+
+<br/>  
 <br />
   
 
@@ -16,9 +24,8 @@
 
 
   
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manurausc)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-gimenez/)
-[![Linkedin](https://img.shields.io/badge/descarga-cv-green)]( https://emanuelgimenez2.github.io/resume/)
+
+
 
 
 
@@ -57,7 +64,7 @@
 <br/>  
 
 
-## Github Stats  
+<h4> Github Stats </h4>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=emanuelgimenez2&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
