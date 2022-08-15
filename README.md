@@ -47,10 +47,9 @@ I started my path in development in the Faculty of Science and Technology and co
 
 
 
-
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
+  <img align="right" alt="GIF" src="https://media2.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47gdq58jokb7aq4h0p33nf0j09kpiyzz39ugdpzwpu&rid=giphy.gif&ct=g" width="500" height="320" />
+  </div
   <br />
   <h4>Programming Languages</h4>
 <p>
