@@ -1,6 +1,6 @@
  
 <div align="center">
-<img width="100%" height = "250px" src="https://media-exp1.licdn.com/dms/image/C4E16AQHHqs5W7EDoPw/profile-displaybackgroundimage-shrink_200_800/0/1660261157379?e=1666224000&v=beta&t=X1tVCNDGgm7_9YHu1FITz1jWKs-oaFBHNHnJwvWuXAo" alt="cover" />
+<img width="100%" height = "250px" src="https://media-exp1.licdn.com/dms/image/D4E16AQE4Mg9XS1jaQQ/profile-displaybackgroundimage-shrink_200_800/0/1662086118833?e=1667433600&v=beta&t=1dIFhdby2NVyg6u11TOeQaXOn0vCeyTb7KEy_vMkJHM" alt="cover" />
 </div>
 <br/> 
 <br/> 
