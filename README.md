@@ -34,7 +34,7 @@ I started my path in development in the Faculty of Science and Technology and co
 <br />
   
 
-- 🔭 I’m currently working on [app-todo-list](https://github.com/emanuelgimenez2/todo-list/tree/main)  
+- 🔭 I’m currently working on [app-todo-list]()  
   
 
 - 🌱 I’m currently learning React Native  
