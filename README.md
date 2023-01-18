@@ -1,6 +1,6 @@
  
 <div align="center">
-<img width="100%" height = "250px" src="https://media-exp1.licdn.com/dms/image/D4E16AQE4Mg9XS1jaQQ/profile-displaybackgroundimage-shrink_350_1400/0/1662086118833?e=1673481600&v=beta&t=jjwr69RRuUFHDYUgGaG1gDy1csJm5nzjNt2Pj76wVtE" alt="cover" />
+<img width="100%" height = "250px" src="https://media.licdn.com/dms/image/D4E16AQE4Mg9XS1jaQQ/profile-displaybackgroundimage-shrink_350_1400/0/1662086118833?e=1679529600&v=beta&t=AjOP2C7QzIuDxPmQK6D_IO-oFvA9cRb532H1iQGB4qs" alt="cover" />
 </div>
 <br/> 
 <br/> 
@@ -83,8 +83,6 @@ I started my path in development in the Faculty of Science and Technology and co
 <br/>  
 
 
-<h4> Github Stats </h4>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=emanuelgimenez2&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
 
 
