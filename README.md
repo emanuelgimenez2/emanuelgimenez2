@@ -1,6 +1,6 @@
  
 <div align="center">
-<img width="100%" height = "250px" src="https://media.licdn.com/dms/image/D4E16AQE4Mg9XS1jaQQ/profile-displaybackgroundimage-shrink_350_1400/0/1662086118833?e=1697068800&v=beta&t=Bf4XI1YOQnzyuLyYoZJrxglXLbTwLsORH5-wSOFIGuI" />
+
 </div>
 <br/> 
 <br/> 
